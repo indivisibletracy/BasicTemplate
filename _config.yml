@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: Indivisible Tracy
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -57,15 +57,14 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: Taking Tracy Into the Future with a Heart.
+email: indivisibletracy@gmail.com
 baseurl: 
 url: 
-twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+Tracy_CA10: 
+Indivisible Tracy: 
+background-image: "/uploads/Altamont%20Pass.jpg"
+member-count: 100
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
