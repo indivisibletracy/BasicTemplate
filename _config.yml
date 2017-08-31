@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Taking Tracy Into the Future with a Heart.
+subtitle: Taking Tracy Into the Future with a Heart
 email: indivisibletracy@gmail.com
 baseurl: 
 url: 
