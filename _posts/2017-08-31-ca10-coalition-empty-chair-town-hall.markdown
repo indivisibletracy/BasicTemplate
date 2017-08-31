@@ -2,7 +2,7 @@
 title: CA10 Coalition Empty Chair Town Hall
 date: 2017-08-31 18:00:00 -07:00
 categories:
-- Event
+- event
 tags:
 - Denham
 - town hall
