@@ -8,3 +8,4 @@ event-end-date: 2017-09-10 12:00:00 -07:00
 Location: 1 Frank H Ogawa Plz, Oakland, CA 94612-1901, United States
 ---
 
+Hosted by Women's March San Francisco
