@@ -1,6 +1,6 @@
 ---
 title: Farmers Market Voter Registration
-date: 2017-09-07 17:08:00 -07:00
+date: 2017-12-03 21:05:00 -08:00
 categories:
 - event
 event-start-date: 2017-09-23 08:00:00 -07:00
