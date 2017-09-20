@@ -1,6 +1,6 @@
 ---
 title: Tracy Planning Commission
-date: 2017-09-07 17:14:00 -07:00
+date: 2017-12-03 21:01:00 -08:00
 categories:
 - event
 event-start-date: 2017-09-28 19:00:00 -07:00
