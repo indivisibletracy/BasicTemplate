@@ -1,6 +1,6 @@
 ---
 title: San Joaquin County Homeless Taskforce
-date: 2017-09-07 17:12:00 -07:00
+date: 2017-12-03 21:02:00 -08:00
 categories:
 - event
 event-start-date: 2017-09-28 09:00:00 -07:00
