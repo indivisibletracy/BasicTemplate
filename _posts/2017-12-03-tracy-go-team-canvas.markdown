@@ -1,6 +1,6 @@
 ---
 title: Tracy GO Team Canvas
-date: 2017-09-07 17:10:00 -07:00
+date: 2017-12-03 21:04:00 -08:00
 categories:
 - event
 event-start-date: 2017-09-23 14:00:00 -07:00
