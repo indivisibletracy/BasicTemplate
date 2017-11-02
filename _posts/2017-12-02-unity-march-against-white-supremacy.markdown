@@ -1,6 +1,6 @@
 ---
 title: Unity March Against White Supremacy
-date: 2017-12-02 21:00:00 -08:00
+date: 2017-12-02 19:40:00 -08:00
 categories:
 - event
 event-start-date: 2017-12-03 09:00:00 -08:00
