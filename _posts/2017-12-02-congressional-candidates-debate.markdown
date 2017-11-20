@@ -7,3 +7,4 @@ event-start-date: 2017-11-21 19:00:00 -08:00
 Location: Grand Theater, 715 N. Central Avenue, Tracy
 ---
 
+Doors open at 6:00 PM.
