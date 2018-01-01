@@ -9,5 +9,5 @@ Location: 'Meet at Southside Park, Sacramento
 '
 ---
 
-We plan to carpool from Tracy
+We plan to carpool from Tracy,
 More info to follow
