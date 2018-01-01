@@ -1,6 +1,6 @@
 ---
 title: Roe v Wade Event
-date: 2018-01-01 06:40:00 -08:00
+date: 2017-12-11 06:40:00 -08:00
 categories:
 - event
 event-start-date: 2018-01-22 11:30:00 -08:00
